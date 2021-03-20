@@ -1,15 +1,10 @@
 package fundamentos;
 
-import java.util.Scanner;
-
 public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		System.out.println("Goodbye, cruel world!");
 		
-		sc.next();
-		
-		sc.close();
 	}
 
 }
