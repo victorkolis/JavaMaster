@@ -18,7 +18,6 @@ public class MoreOnVariables {
 		boolean verity = true;
 		var faux = false;
 		
-		
 	}
 
 }
